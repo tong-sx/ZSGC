@@ -11,10 +11,10 @@ new Vue({
                 birthday: '',
             },
             tableData: [{
-                name: '王小虎',
+                name: '童申鑫',
                 gender: '男',
-                phoneNum: '12345678900',
-                birthday: '2001-02-24',
+                phoneNum: '13689186788',
+                birthday: '1996-01-01',
             }],
             dialogVisible: false,  //控制弹框的显示(不显示)
             editObj: {
